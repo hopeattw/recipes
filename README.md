@@ -1,5 +1,15 @@
 # recipes
 
+## Template
+```
+# Title
+
+## Prep Time
+
+## Ingredients
+
+## Instructions
+```
 
 # TODO
 - [ ] tomato roasted chicken
