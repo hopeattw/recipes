@@ -2,7 +2,7 @@
 
 # Prep Time 
 5 mins prep
-5 mins cook
+10 mins cook
 ( didn't factor in oven preheating )
 
 # Ingredients
