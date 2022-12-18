@@ -25,12 +25,12 @@ Cooking time: 45 minutes
 
 1. Marinate ribs with rice wine, soy sauce, ginger, and tea jam overnight
 2. Sear the ribs for 5-8 minutes or until golden brown
-3. Add marinade and extra tea jam if wanted
+3. Add marinade and extra tea jam if wanted to pot
    - Original recipe: add 3 tablespoons tea jam mixed with water
-4. After sauce is boiling, reduce heat and cook for 20 minutes
-5. Add salt
-6. Increase heat and dry out the sauce
-7. Add 1 tablespoon tea jam and sesame seeds on top
+4. After sauce is boiling, reduce heat and simmer meat in sauce for 20 minutes
+5. Add salt to taste
+6. Increase heat and reduce the sauce
+7. Optional: Add 1 tablespoon tea jam and sesame seeds on top
 
 ## Extra notes
 
